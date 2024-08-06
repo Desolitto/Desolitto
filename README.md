@@ -7,9 +7,13 @@ Welcome to my page!
 **Desolitto/Desolitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 -->
-### :man_technologist: About Me :
 ---
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### :man_technologist: About Me :
+- 🌱 I’m currently learning GO.
+- 🖥️ I have a solid knowledge of C and C++.
+- ⌨️ I have experience with SQL, basic Linux, Docker, and CI/CD.
+- 🌍 I speak Russian and English.
+- 📧 Reach me by email [Email Me](mailto:diikaz11@gmail.com?subject=Hello)
+---
 
+### :hammer_and_wrench: Languages and Tools :
