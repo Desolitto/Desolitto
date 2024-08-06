@@ -37,7 +37,5 @@ Welcome to my page!
 ---
 
 ### :floppy_disk: My Projects :
-- On [C]();
-- On [C++]()
-- [C](https://img.shields.io/badge/C-blue)
-- [C++](https://img.shields.io/badge/C%2B%2B-blue)
+- On [C](https://img.shields.io/badge/C-blue);
+- On [C++](https://img.shields.io/badge/C%2B%2B-blue)
