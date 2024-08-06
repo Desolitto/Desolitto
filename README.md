@@ -13,7 +13,7 @@ Welcome to my page!
 - 🖥️ I have a solid knowledge of C and C++.
 - ⌨️ I have experience with SQL, basic Linux, Docker, and CI/CD.
 - 🌍 I speak Russian and English.
-- 📧 Reach me by email [Email Me](mailto:diikaz11@gmail.com?subject=Hello)
+- 📧 Reach me by [email](mailto:diikaz11@gmail.com?subject=Hello)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
