@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dmitry, a dedicated student at Programming School 21 (42).
+I'm Dmitry, a dedicated student at Programming School 21.
 
 Welcome to my page!
 <!--
