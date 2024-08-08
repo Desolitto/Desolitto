@@ -37,5 +37,5 @@ Welcome to my page!
 ---
 
 ### :floppy_disk: My Projects :
-- On ![C](https://github.com/Desolitto/CProjects);
+- On [C](https://github.com/Desolitto/CProjects);
 - On ![C++](https://img.shields.io/badge/C%2B%2B-blue)
