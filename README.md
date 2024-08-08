@@ -39,3 +39,8 @@ Welcome to my page!
 ### :floppy_disk: My Projects :
 - On [C](https://github.com/Desolitto/CProjects);
 - On ![C++](https://img.shields.io/badge/C%2B%2B-blue)
+
+---
+
+### Ссылки на резюме  
+- [резюме на hh.ru](https://hh.ru/resume/c3e5b45bff0d909ff40039ed1f55696e6d7849)
